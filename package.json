@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Abraham Tun Sanchez <abcod98@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
